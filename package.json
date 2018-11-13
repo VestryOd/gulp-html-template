@@ -1,0 +1,30 @@
+{
+  "name": "cv_site",
+  "version": "2.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VestryOd/OptimizedHTML-Template.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "VestryOd",
+  "license": "ISC"
+}

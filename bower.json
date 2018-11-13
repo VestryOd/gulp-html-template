@@ -1,0 +1,22 @@
+{
+  "name": "cv_site",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Vestry"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/VestryOd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "*"
+  }
+}
